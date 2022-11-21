@@ -1,1 +1,1 @@
-# Getconnected.GitHub.io
+# getconnected.GitHub.io
